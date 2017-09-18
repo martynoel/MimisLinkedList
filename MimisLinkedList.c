@@ -105,7 +105,6 @@ void mimisLinkedList_exit(void) {
 module_init(mimisLinkedList_init);
 module_exit(mimisLinkedList_exit);
 
-
 MODULE_LICENSE("IDEK CORPORATION");
 MODULE_DESCRIPTION("Mimi's friends' bdays");
 MODULE_AUTHOR("Mimi Chenyao");
